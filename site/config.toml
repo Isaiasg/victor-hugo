@@ -1,5 +1,5 @@
 theme = "blackburn"
-baseurl = "https://xamue.netlify.com/"
+baseurl = "/"
 languageCode= "en-us"
 title = "Xamue"
 author = "Cocopache"
