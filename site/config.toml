@@ -1,4 +1,4 @@
-theme = "Blackburn"
+theme = "blackburn"
 baseurl = "https://xamue.netlify.com/"
 languageCode= "en-us"
 title = "Xamue"
