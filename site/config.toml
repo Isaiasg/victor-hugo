@@ -1,7 +1,7 @@
 theme = "blackburn"
 baseurl = "/"
 languageCode= "en-us"
-title = "Xamue"
+title = "Random stuff"
 author = "Cocopache"
 # Shown in the side menu
 copyright = "&copy; 2016. All rights reserved."
@@ -14,7 +14,7 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "Random stuff"
+  subtitle = "and more"
   brand = "Xamue"
   googleAnalytics = ""
   disqus = ""
@@ -24,7 +24,7 @@ paginate = 10
   dateFormat = "02 Jan 2006, 15:04"
   # Include any custom CSS and/or JS files
   # (relative to /static folder)
-  #custom_css = ["css/my.css"]
+  custom_css = ["css/custom.css"]
   #custom_js = ["js/my.js"]
 
 [menu]
