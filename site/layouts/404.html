@@ -2,19 +2,12 @@
 
 <div class="header">
   <h1>{{ .Title }}</h1>
-  <h2>{{ .Site.Params.subtitle }}</h2>
 </div>
 
 <div class="content">
-  {{ range ( .Paginate (where .Data.Pages "Type" "post")).Pages }}
-    {{ .Render "summary"}}
-  {{ end }}
-
-  {{ partial "pagination.html" . }}
+    <h2>Almost nothing to see here....</h2>
+    <img src="/cocopache.svg" class="cocopache"/>
 
 </div>
-
-<h1>Almost nothing to see here.</h1>
-<img src="/cocopache.svg"/>
 
 {{ partial "footer.html" . }}
