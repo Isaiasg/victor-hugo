@@ -1,0 +1,2 @@
+Pygments==2.2.0
+pylint==1.6.4
