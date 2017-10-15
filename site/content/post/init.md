@@ -4,7 +4,14 @@ draft: false
 title: Hey there
 ---
 
+# Testing Hugo and Netlify
 
-## Testing Hugo and Netlify
+Some content here.
 
-Some content here. 
+{{< highlight go >}}
+package main
+import "fmt"
+func main() {
+    fmt.Println("hello world")
+}
+{{< / highlight >}}
